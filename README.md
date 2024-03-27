@@ -1,6 +1,6 @@
 # Appointments | An React App
 
-![PIM](https://mmkernel.com/appointments.jpg)
+![Appoitments](https://mmkernel.com/appointment.jpg)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
